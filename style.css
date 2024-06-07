@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+.text-center{
+      text-align: center;
+}
+
+
+body{
+      font-family: 'Ubuntu',sans-serif;
+}
+.container{
+      text-align: center;
+      background-color: blue;
+}
+
+.row{
+
+      padding: 8px 0px;
+}
+
+.button{
+      margin: 0px 3px;
+      padding: 20px;
+      border: 2px solid black;
+      border-radius: 10px;
+      cursor: pointer;
+      width: 70px;
+}
+
+.row input{
+      margin: 0;
+      padding: 11px 38px;
+      border: 2px solid black;
+      border-radius: 5px;
+      font-size: 23px;
+}
